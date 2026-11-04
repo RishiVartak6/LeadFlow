@@ -1,0 +1,34 @@
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Google Service Account Credentials (Security sensitive)
+credentials.json
+*.json.key
+
+# Progress tracking
+lead_gen_progress.json
+
+# Generated leads data (optional: ignore by default)
+*.xlsx
+*.csv
+!sample_*.xlsx
+
+# Editor & OS files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+Thumbs.db
+Desktop.ini
+.DS_Store
