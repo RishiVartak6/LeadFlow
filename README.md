@@ -81,3 +81,4 @@ Exported Excel (`.xlsx`) and Google Sheets include the following columns:
 
 ## 📜 License
 MIT License. Free for personal and commercial use.
+
